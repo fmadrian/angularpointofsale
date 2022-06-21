@@ -4,9 +4,13 @@
 
 [Screenshots](https://github.com/fsv2860/reslide/blob/main/screenshots.md)
 
+## Repositories
+
 [Frontend repository](https://www.github.com/fsv2860/reslide-frontend)
 
 [Backend repository](https://www.github.com/fsv2860/reslide-backend)
+
+Both repositories (frontend and backend) contain installation instructions.
 
 ## Description
 
