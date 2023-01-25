@@ -1,7 +1,5 @@
 # reslide
 
-[App demo](https://reslide-demo.herokuapp.com/)
-
 [Screenshots](https://github.com/fsv2860/reslide/blob/main/screenshots.md)
 
 ## Repositories
@@ -10,7 +8,7 @@
 
 [Backend repository](https://www.github.com/fsv2860/reslide-backend)
 
-Both repositories (frontend and backend) contain installation instructions.
+Both repositories (frontend and backend) contain installation (in a local environment) instructions.
 
 ## Description
 
