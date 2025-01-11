@@ -1,4 +1,4 @@
-# reslide
+# webpointofsale
 
 [Screenshots](https://github.com/fsv2860/reslide/blob/main/screenshots.md)
 
@@ -12,7 +12,7 @@ Both repositories (frontend and backend) contain installation (in a local enviro
 
 ## Description
 
-Reslide is a web point of sale made using Spring Boot, Java, Angular, TypeScript, and PostgreSQL that allows users to:
+Web point of sale (Reslide) is web application made using Spring Boot, Java, Angular, TypeScript, and PostgreSQL that allows users to:
 
 - Manage the information of clients and providers like their name, type (example: person, organization, or a business), addresses, and contacts.
 - Manage user information such as name, role (cashiers or administrators), addresses, and contacts.
